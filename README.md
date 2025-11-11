@@ -1,1 +1,0 @@
-# Data-Management-system-with-credit-purchase
